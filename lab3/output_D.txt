@@ -1,0 +1,11 @@
+a has 5 elements:  -1279  1894  -1047  0  -103
+
+negative elements from array a are as follows:  -1279  -1047  -103
+
+Now testing substring function....
+Answer must be 1.substring function returned: 1
+Answer must be 0.substring function returned: 0
+Answer must be 1.substring function returned: 1
+Answer must be 0.substring function returned: 0
+Answer must be 1.substring function returned: 1
+Answer must be 0.substring function returned: 0

@@ -1,0 +1,5 @@
+Doing tests of read_int and read_double functions ...
+
+Please try to enter an int: read_int succeeded.  It read a value of 1.
+Please try to enter a double: 
+read_double unsuccessful. Double Error

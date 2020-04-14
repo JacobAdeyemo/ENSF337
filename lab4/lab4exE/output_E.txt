@@ -1,0 +1,28 @@
+
+
+Enter a double or press Ctrl-D to quit: 
+Your double value is: 23.400000
+
+Enter a double or press Ctrl-D to quit: 
+Your double value is: 0.560000
+
+Enter a double or press Ctrl-D to quit: 
+Your double value is: -0.230000
+
+Enter a double or press Ctrl-D to quit: 
+Your double value is: -0.450000
+
+Enter a double or press Ctrl-D to quit: 
+Your double value is: -0.000007
+
+Enter a double or press Ctrl-D to quit: 
+Your double value is: 564469999.000000
+
+Enter a double or press Ctrl-D to quit: 
+Your double value is: 8773469.000000
+
+Enter a double or press Ctrl-D to quit: 
+Your double value is: 0.500000
+
+Enter a double or press Ctrl-D to quit: 
+Good Bye.

@@ -1,0 +1,2 @@
+Please enter the travel distance in km:Now enter the vehicle's average speed (km/hr):
+You have travelled 5.440000 km with a speed of 76.500000 km/h in 0.000000 hour(s) and 4.266667 minutes(s)
